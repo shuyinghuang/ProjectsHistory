@@ -112,3 +112,62 @@
 - https://github.com/ACRA
 - http://acra.ch
 
+## ProgressPieView
+- https://github.com/FilipPudak/ProgressPieView
+- 4 years ago
+- 405 stars
+- 11
+- Android library for showing progress in a highly customizable pie.
+
+## android_system_service_example
+- https://github.com/qianjigui/android_system_service_example
+- 2 years ago
+- 64 stars
+- 7
+- active
+- yunos
+- In Android system, the main IPC is the binder. App can invoke a API from other app by binder, or it can create a binder service.And you can make many system services for customing a ROM. Here we create many base codes for creating a system service in native code c level and Java code level.
+
+## cube-sdk
+- https://github.com/liaohuqiu/cube-sdk
+- https://github.com/etao-open-source
+- 3 years ago
+- 1212 stars
+- 7.9k followers
+- 一周 CP
+- A light package for Android development, it handles loading image and network request.
+
+## android-log-collector
+- not working anymore
+
+## jstorm
+- https://github.com/alibaba/jstorm
+- JStorm is a distributed and fault-tolerant realtime computation system. Inspired by Apache Storm, JStorm has been completely rewritten in Java and provides many more enhanced features. JStorm has been widely used in many enterprise environments and proved robust and stable.
+
+## SimplifyReader
+- https://github.com/chentao0707/SimplifyReader
+- 3 years ago
+- 4431
+- 961 followers
+- 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的
+
+## json-server
+- https://github.com/typicode/json-server
+- 4 months ago
+- 35213
+- 2.9k
+- Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+
+## MPAndroidChart
+- https://github.com/PhilJay/MPAndroidChart
+- 5 months ago
+- 24320
+- 1.7k
+- A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+
+## react
+- https://github.com/facebook/react
+- 2days ago
+- 112595
+- A declarative, efficient, and flexible JavaScript library for building user interfaces. https://reactjs.org
+

@@ -171,3 +171,74 @@
 - 112595
 - A declarative, efficient, and flexible JavaScript library for building user interfaces. https://reactjs.org
 
+## watchman
+- https://github.com/facebook/watchman
+- 6days ago
+- 7206
+- https://github.com/facebook
+- Watches files and records, or triggers actions, when they change.
+
+## chartx
+- https://github.com/thx/chartx
+- a month ago
+- 213
+- https://github.com/thx
+- https://github.com/thx/RAP
+- 阿里妈妈
+- Data Visualization Solutions http://thx.github.io/chartx/
+
+## EventBus
+- https://github.com/greenrobot/EventBus
+- 10 months ago
+- 19404
+- 4.9k
+- Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+- Creator of EventBus and greenDAO, now CTO and co-founder at @objectbox
+
+## tensorflow
+- https://github.com/tensorflow/tensorflow
+- two days ago
+- 111487
+- https://github.com/tensorflow
+- An Open Source Machine Learning Framework for Everyone https://tensorflow.org
+
+## AndoirdPluginFramework
+- https://github.com/nuptboyzhb/AndroidPluginFramework
+- 3 years ago
+- 626
+- 386
+- alibaba Group
+- Android插件化框架系列文章以及DEMO
+
+## blockly
+- https://github.com/google/blockly
+- 14 days ago
+- 5100
+- https://github.com/google
+- The web-based visual programming editor. https://developers.google.com/blockly/
+
+## zipkin
+- https://github.com/openzipkin/zipkin
+- 7 days ago
+- 9472
+- https://github.com/openzipkin
+- Zipkin is a distributed tracing system http://zipkin.io
+
+## drools
+- https://github.com/kiegroup/drools
+- 3 days ago
+- 1741
+- https://github.com/kiegroup
+- Drools Expert is the rule engine and Drools Fusion does complex event processing (CEP). http://www.drools.org
+
+## leakcanary
+- https://github.com/square/leakcanary
+- 20763
+- https://github.com/square
+- A memory leak detection library for Android and Java.
+
+## AndroidProcessCPUMemory
+- https://github.com/ssmail/AndroidProcessCPUMemory
+- 5
+- 9
+- get Android cpu and memory usage in python
